@@ -1,12 +1,11 @@
 {
-  "homepage": "https://lem05.github.io/myofficial-portfolio/",
   "name": "my-nextjs-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "npm run dev",
     "build": "npm run build",
-    "start": "npm run start"
+    "start": "npm start"
   },
   "dependencies": {
     "@types/node": "18.11.13",
